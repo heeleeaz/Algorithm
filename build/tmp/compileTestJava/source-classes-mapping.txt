@@ -1,0 +1,32 @@
+SquareTest.java
+ SquareTest
+ArrayIndexEqualityTest.java
+ ArrayIndexEqualityTest
+ProdFibTest.java
+ ProdFibTest
+SongTests.java
+ SongTests
+BraceCheckerTests.java
+ BraceCheckerTests
+Tests.java
+ Tests
+OutlierTest.java
+ OutlierTest
+TwoToOneTest.java
+ TwoToOneTest
+SquareDigitTest.java
+ SquareDigitTest
+NegativeNumberInSortedMatrixTest.java
+ NegativeNumberInSortedMatrixTest
+ReverseVowelsTest.java
+ ReverseVowelsTest
+PangramTest.java
+ PangramTest
+FloorValueOfSortedArrayTest.java
+ FloorValueOfSortedArrayTest
+FixedPointInArrayTest.java
+ FixedPointInArrayTest
+UglyNumberTest.java
+ UglyNumberTest
+NumberOfOccurrenceInArrayTest.java
+ NumberOfOccurrenceInArrayTest
