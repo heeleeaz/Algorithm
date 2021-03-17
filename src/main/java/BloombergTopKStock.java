@@ -44,7 +44,7 @@ public class BloombergTopKStock {
             sortedStockName.put(volume, stockNameSet);
         } else {
             int initialStockVolume = stockVolumeMap.get(stockSymbol);
-            Set<String> stockVolumeName = sortedStockName.getOrDefault(initialStockVolume, new HashSet<>());
+            Set<String> stockVolumeName = sortedStockName.get(initialStockVolume);
 
             //remove initial stock volume count if it is 1 or reduce by -1
             stockVolumeName.remove(stockSymbol);
