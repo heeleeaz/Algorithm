@@ -14,8 +14,12 @@ BraceChecker.java
  BraceChecker
 PeakIndexInMountainArray.java
  PeakIndexInMountainArray
+BloombergWordSearch.java
+ BloombergWordSearch
 MergeSortedArry.java
  MergeSortedArry
+BloombergWordBreak.java
+ BloombergWordBreak
 Dubstep.java
  Dubstep
 IsToeplitz.java
@@ -82,6 +86,8 @@ BloombergTwoCitySchedCost.java
  BloombergTwoCitySchedCost$1
 MinRemoveToMakeValid.java
  MinRemoveToMakeValid
+BloombergNumberOfIsland.java
+ BloombergNumberOfIsland
 Troll.java
  Troll
 ClimbStairs.java
@@ -96,22 +102,33 @@ ReverseVowels.java
  ReverseVowels
 OneWayEdit.java
  OneWayEdit
+BloombergTopKFrequentSolution.java
+ BloombergTopKFrequentSolution
 CalculateSumOfNumbersInString.java
  CalculateSumOfNumbersInString
 CompressStringCount.java
  CompressStringCount
+BloombergBrowserHistory2.java
+ BloombergBrowserHistory2
+ BloombergBrowserHistory2$Node
+BloombergUndergroundSystem.java
+ BloombergUndergroundSystem
+ BloombergUndergroundSystem$Pair
 DecodeWays.java
  DecodeWays
 ValidateIP.java
  ValidateIP
 MonsoonUmbrella.java
  MonsoonUmbrella
-TwoSum.java
- TwoSum
+Toptal.java
+ Toptal
+ Toptal$1
 FindOutlier.java
  FindOutlier
 GameOfLife.java
  GameOfLife
+TwoSum.java
+ TwoSum
 BloombergFlattenLinkedList.java
  BloombergFlattenLinkedList
  BloombergFlattenLinkedList$Node
@@ -129,10 +146,10 @@ PalantirTypoSquatting.java
  PalantirTypoSquatting$7
  PalantirTypoSquatting$8
  PalantirTypoSquatting$9
-NumberOfIsland.java
- NumberOfIsland
 PangramChecker.java
  PangramChecker
+BloombergRandomizedSet.java
+ BloombergRandomizedSet
 MinimumStart.java
  MinimumStart
  MinimumStart$1
@@ -165,10 +182,11 @@ ArrayIndexEquality.java
  ArrayIndexEquality
 FixedPointInArray.java
  FixedPointInArray
+BloombergAddTwoNumbers.java
+ BloombergAddTwoNumbers
 ValidParenthesis.java
  Solution
 SparseArray.java
  SparseArray
-Toptal.java
- Toptal
- Toptal$1
+BloombergTopKStock.java
+ BloombergTopKStock

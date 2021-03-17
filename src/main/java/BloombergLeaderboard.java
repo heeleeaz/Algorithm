@@ -36,7 +36,6 @@ public class BloombergLeaderboard {
     public int top(int K) {
         int sum = 0;
         int count = 0;
-        Iterator<Map.Entry<Integer, Integer>> entryIterator = sortedScores.entrySet().iterator();
         for (Map.Entry<Integer, Integer> entry : sortedScores.entrySet()) {
             int key = entry.getKey();
             int times = entry.getValue();
